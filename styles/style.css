@@ -236,6 +236,9 @@ body.dark {
   background-color: var(--primary-color);
 }
 
+.container .text-area .chars {
+  color:#111116;
+}
 .container .text-area {
   position: relative;
 }
